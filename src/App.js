@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 
+import AddMovie from "./components/AddMovie";
 import MoviesList from "./components/MoviesList";
 import "./App.css";
 
